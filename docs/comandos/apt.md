@@ -2,7 +2,7 @@
 
 ## Ajuda do Apt
 
-´´´
+```
 apt 2.6.1 (amd64)
 Usage: apt [options] command
 
@@ -32,7 +32,7 @@ Information about how to configure sources can be found in sources.list(5).
 Package and version choices can be expressed via apt_preferences(5).
 Security details are available in apt-secure(8).
                                    Este APT tem Poderes de Super Vaca.
-´´´
+```
 
 ## Exemplos
 
@@ -42,7 +42,7 @@ Security details are available in apt-secure(8).
 
 ## tlrd
 
-´´´
+```
 
 tldr - Simplified and community-driven man pages
 
@@ -67,7 +67,7 @@ Available options:
   --color                  Force colored output, overriding the NO_COLOR
                            environment variable
   --no-color               Disable colored output
-´´´
+```
 
 ## Exemplos de tlrd
 
